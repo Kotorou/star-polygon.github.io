@@ -5,6 +5,7 @@ body {
   color: #fff;
   overflow: hidden;
   font-size: large;
+  
 }
 
 h1 {
@@ -53,6 +54,7 @@ h1 {
   cursor: pointer;
   transition: background-color 0.2s ease-in-out;
   margin-top: 1rem;
+
 }
 
 .button:hover {
@@ -65,6 +67,7 @@ h1 {
   border-radius: 5px;
   padding: 0.8rem;
   cursor: pointer;
+  font-weight: bold;
 }
 
 #reset {
@@ -73,6 +76,7 @@ h1 {
   border-radius: 5px;
   padding: 0.8rem;
   cursor: pointer;
+  font-weight: bold;
 }
 
 input::-webkit-outer-spin-button,

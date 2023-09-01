@@ -8,7 +8,8 @@ function start(){
  n = document.getElementById("n").value;
  m = document.getElementById("m").value;
  angle = -(180-(180-360*(m/n)));
- a = 200 - m*0.6
+ a = 300 - n*2
+ 
 setSpeed(150);
 color("white");
 
