@@ -11,7 +11,7 @@ function start(){
  a = 300 - n*2
  
 setSpeed(150);
-color("white");
+color("black");
 
 width(3);
 right(90);

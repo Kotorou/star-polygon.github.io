@@ -1,17 +1,18 @@
 
-body {
+body{
   font-family: "Times New Roman", Times, serif;
-  background-color: #313131;
-  color: #fff;
+  background-color: black;
+  color: white;
   overflow: hidden;
   font-size: large;
-  
+
 }
 
 h1 {
   text-align: center;
   margin: 2rem 0;
 }
+
 
 .grid {
   display: grid;
@@ -27,6 +28,8 @@ h1 {
   align-items: center;
   justify-content: center;
   margin-top: 2rem;
+  position: absolute;
+  right: 250px;
 }
 
 .label {
