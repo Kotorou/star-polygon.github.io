@@ -16,6 +16,10 @@ color("black");
 width(3);
 right(90);
 forward(a);
+if(n <= 0 || m <= 0){
+  alert('N and M must be a positive integer');
+  location.reload();
+}
 
 for (let i = 0; i < n-1; i++) {
     left(angle);
@@ -27,8 +31,4 @@ for (let i = 0; i < n-1; i++) {
   }
 }
 
-  
-  
-  
-  
 

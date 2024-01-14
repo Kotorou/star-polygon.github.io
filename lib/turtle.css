@@ -1,13 +1,11 @@
 
-body{
+body {
   font-family: "Times New Roman", Times, serif;
-  background-color: black;
+  background-color: grey;
   color: white;
-  overflow: hidden;
   font-size: large;
-
+  overflow: hidden; 
 }
-
 h1 {
   text-align: center;
   margin: 2rem 0;
